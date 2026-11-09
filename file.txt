@@ -1,0 +1,3 @@
+Git Experiment 7
+This is the first version of the file.
+Learning Git commit history.
