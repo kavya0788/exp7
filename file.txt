@@ -4,3 +4,4 @@ Learning Git commit history.
 Second version - Added information about Git commits.
 Third version - Learning Git log commands.
 Fourth version - Learning Git blame command.
+Fifth version - Learning Git show command.
